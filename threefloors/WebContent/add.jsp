@@ -9,7 +9,7 @@
 <body>
 		<form action = "AddServlet"  method = "get" >
 		
-				学号：<input type = "text" name = "Snum"><br/>
+				牛逼：<input type = "text" name = "Snum"><br/>
 				姓名：<input type = "text" name = "Sname"><br/>
 				班级：<input type = "text" name = "Sclass"><br/>
 				专业：<input type = "text" name = "Spross"><br/>
